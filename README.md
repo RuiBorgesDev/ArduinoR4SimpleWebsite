@@ -7,7 +7,7 @@ This project demonstrates how to set up an Arduino-based web server that receive
 Firstly clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/RuiPedroDev/ArduinoR4SimpleWebsite
+git clone https://github.com/RuiBorgesDev/ArduinoR4SimpleWebsite
 ```
 
 
